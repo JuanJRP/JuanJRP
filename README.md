@@ -1,10 +1,10 @@
-<br clear="both">
-
-<img align="right" height="168" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV3a3ltandlY2Z1YnN3ajl4OHhkd2w4MXo1eGZ0aG9xdmpwam1rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+<h2 align="left">Hi There 👋</h2>
 
 ###
 
-<h2 align="left">Hi There 👋</h2>
+<br clear="both">
+
+<img align="right" height="168" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV3a3ltandlY2Z1YnN3ajl4OHhkd2w4MXo1eGZ0aG9xdmpwam1rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
 
