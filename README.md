@@ -1,4 +1,4 @@
-<h2 align="left">Hi There 👋</h2>
+<h2 align="center">Hi There 👋🏼, <a href="https://github.com/JuanJRP">Juan Restrepo</a> here 👨🏻‍💻 </h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I am a software engineer passionate about creating innovative solutions. Specialized in developing web applications and software using a variety of technologies.</h3>
+<h3 align="left">I'm a software engineering student at <a href="https://pascualbravo.edu.co/">Institución Universitaria Pascual Bravo</a> and I'm passionate about creating innovative solutions. I specialize in developing web applications and software using various technologies.</h3>
 
 ###
 
