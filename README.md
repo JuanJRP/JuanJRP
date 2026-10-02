@@ -1,102 +1,93 @@
-<h2 align="center">Hi There 👋🏼, <a href="https://github.com/JuanJRP">Juan Restrepo</a> here 👨🏻‍💻 </h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="168" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV3a3ltandlY2Z1YnN3ajl4OHhkd2w4MXo1eGZ0aG9xdmpwam1rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
-
-###
-
-<h3 align="left">I'm a software engineering student at <a href="https://pascualbravo.edu.co/">Institución Universitaria Pascual Bravo</a> and I'm passionate about creating innovative solutions. I specialize in developing web applications and software using various technologies.</h3>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-jose-restrepo-pabon-96107b2a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:juanjoserestrepopabon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://juanjrp.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/website-%23121011.svg?style=flat&logo=About.me&logoColor=white" height="30" alt="website logo" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=39D353&center=true&vCenter=true&width=640&lines=juan%40github%3A~%24+whoami;Juan+Jos%C3%A9+Restrepo+%E2%80%94+Software+Engineer;juan%40github%3A~%24+echo+%24FOCUS;Flutter+%C2%B7+React+%C2%B7+Enterprise+Integrations+%C2%B7+BI+%26+Cloud" alt="whoami" />
 </div>
 
-###
+```console
+juan@github:~$ neofetch
+```
+```
+     ██╗██████╗       juan@github
+     ██║██╔══██╗      ---------------------------------------------
+     ██║██████╔╝      Name:       Juan José Restrepo
+██   ██║██╔══██╗      Role:       Software Engineer
+╚█████╔╝██║  ██║      Current:    Commercial Technology Analyst @ Nutresa
+ ╚════╝ ╚═╝  ╚═╝      Location:   Medellín, Colombia
+                      OS:         Ubuntu Linux
+                      Languages:  TypeScript, Dart, Python, Kotlin, C#
+                      Focus:      Enterprise Integrations, Clean Architecture
+                      Learning:   AWS, LLM fine-tuning (LoRA / LLaMA)
+```
 
-<h2 align="left">Languages and Tools ⚙️</h2>
+```console
+juan@github:~$ cat about.md
+```
+```
+Software Engineer focused on scalable architectures, IoT and applied AI
+for health, services and sustainability.
 
-###
+Today I work on enterprise integrations (Dataverse, APIs, SAP), Microsoft
+ecosystem migration and BI. I build web apps with Next.js/React and mobile
+apps with Flutter, always under Clean Architecture.
+
+Former medical sales rep → I bring a business view, user empathy and
+clear technical communication.
+```
+
+```console
+juan@github:~$ ls -l ~/stack
+```
+```
+drwxr-xr-x  frontend/     Next.js  React  TypeScript  Tailwind CSS
+drwxr-xr-x  backend/      Node.js  Express  Django  .NET  REST APIs
+drwxr-xr-x  mobile/       Flutter  Dart  Kotlin
+drwxr-xr-x  data/         SQL Server  BigQuery  PostgreSQL  MySQL  MongoDB  pandas
+drwxr-xr-x  enterprise/   Power BI  Power Automate  Dataverse  SAP  Apps Script  n8n
+drwxr-xr-x  iot/          ESP32  Arduino  biometric & environmental sensors
+drwxr-xr-x  cloud-ai/     AWS  Docker  LoRA / LLaMA fine-tuning
+drwxr-xr-x  tools/        Git  GitHub  GitLab  Linux
+```
+
+```console
+juan@github:~$ git log --oneline career
+```
+```
+a1f3c9e (HEAD -> main)  Oct 2026  feat: Commercial Technology Analyst @ Nutresa
+7be20d4                 Jul 2026  feat: Digital Transformation & Tech Analyst @ Negocio Cárnico · Nutresa
+5d91a7f                 Jul 2026  release: B.Sc. Software Engineering @ I.U. Pascual Bravo
+4c02e88                 Feb 2026  feat: Digital Transformation & Tech Analyst @ Nases Colombia
+2e7b6a1                 Jul 2025  feat: Digital Transformation & Tech Intern @ Negocio Cárnico · Nutresa
+0000001                 Jan 2021  init: started Software Engineering
+```
+
+<!--
+```console
+juan@github:~$ ls ~/projects
+```
+```
+iot-medical-wristband/    ESP32 · Next.js   Wearable for biometric monitoring
+project-name/             Flutter           Short description
+```
+-->
+
+```console
+juan@github:~$ ./contact.sh
+```
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-juan--jose--restrepo--pabon-0D1117?style=flat-square&logo=linkedin&logoColor=39D353&labelColor=0D1117)](https://www.linkedin.com/in/juan-jose-restrepo-pabon-96107b2a7/)
+[![Email](https://img.shields.io/badge/mail-juanjoserestrepopabon@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=39D353&labelColor=0D1117)](mailto:juanjoserestrepopabon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/web-juanjrp.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=39D353&labelColor=0D1117)](https://juanjrp.github.io)
+
+```console
+juan@github:~$ gh stats --user JuanJRP
+```
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JuanJRP&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJRP&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/JuanJRP/JuanJRP/output/snake.svg" alt="Contribution snake" />
 </div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/JuanJRP/JuanJRP/output/snake.svg" alt="Snake animation" />
-
-###
+```console
+juan@github:~$ █
+```
