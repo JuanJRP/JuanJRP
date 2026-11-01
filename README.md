@@ -20,9 +20,9 @@
 ```
 
 I'm a software engineer in the **Commercial Networks Vice-Presidency of Grupo Nutresa**. I build the internal tools
-teams use to work faster and decide with data: a needs-management ERP (React + Apps Script + BigQuery), dashboards for
-executives, finance, marketing, sales and farm operations, and SQL Server / SAP BusinessObjects automations.
-Right now my focus is mobile development with **Flutter**. Outside work I build data pipelines, AI models and IoT prototypes.
+teams use to work faster and decide with data: dashboards for executives, finance, marketing, sales and farm operations,
+Power Platform apps, SQL Server / SAP BusinessObjects automations and, before that, a needs-management ERP
+(React + Apps Script + BigQuery). Right now my focus is mobile development with **Flutter** and the APIs behind it. Outside work I build data pipelines, AI models and IoT prototypes.
 
 ### Featured projects
 
