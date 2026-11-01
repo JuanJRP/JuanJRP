@@ -50,8 +50,8 @@ juan@github:~$ git log --oneline career
 ```
 ```text
 a1f3c9e (HEAD -> main)  Oct 2026  feat: Commercial Technology Analyst @ Nutrefríos · Grupo Nutresa
-7be20d4                 Jul 2026  feat: Digital Transformation & Tech Analyst @ Negocio Cárnico · Nutresa
 5d91a7f  (tag: v1.0.0)  Jul 2026  release: B.Sc. Software Engineering @ I.U. Pascual Bravo
+7be20d4                 Jun 2026  feat: Digital Transformation & Tech Analyst @ Negocio Cárnico · Nutresa
 4c02e88                 Feb 2026  feat: Digital Transformation Analyst @ Nases Colombia
 2e7b6a1                 Jul 2025  feat: Digital Transformation Intern @ Alimentos Cárnicos · Nutresa
 0000001                 2021      init: started Software Engineering
