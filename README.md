@@ -1,93 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=39D353&center=true&vCenter=true&width=640&lines=juan%40github%3A~%24+whoami;Juan+Jos%C3%A9+Restrepo+%E2%80%94+Software+Engineer;juan%40github%3A~%24+echo+%24FOCUS;Flutter+%C2%B7+React+%C2%B7+Enterprise+Integrations+%C2%B7+BI+%26+Cloud" alt="whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=39D353&center=true&vCenter=true&width=640&lines=juan%40github%3A~%24+whoami;Juan+Jos%C3%A9+Restrepo+%E2%80%94+Software+Engineer;Enterprise+integrations+%C2%B7+Data+%C2%B7+Full+stack" alt="Juan José Restrepo — Software Engineer" />
+
+  <p>
+    <a href="https://juanjrp.github.io"><img src="https://img.shields.io/badge/portfolio-juanjrp.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=39D353" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/juan-jose-restrepo-pabon-96107b2a7/"><img src="https://img.shields.io/badge/linkedin-juan--jose--restrepo-0D1117?style=flat-square&logo=linkedin&logoColor=39D353" alt="LinkedIn" /></a>
+    <a href="mailto:juanjoserestrepopabon@gmail.com"><img src="https://img.shields.io/badge/email-juanjoserestrepopabon-0D1117?style=flat-square&logo=gmail&logoColor=39D353" alt="Email" /></a>
+  </p>
 </div>
 
-```console
-juan@github:~$ neofetch
-```
-```
+```text
      ██╗██████╗       juan@github
-     ██║██╔══██╗      ---------------------------------------------
-     ██║██████╔╝      Name:       Juan José Restrepo
-██   ██║██╔══██╗      Role:       Software Engineer
-╚█████╔╝██║  ██║      Current:    Commercial Technology Analyst @ Nutresa
- ╚════╝ ╚═╝  ╚═╝      Location:   Medellín, Colombia
-                      OS:         Ubuntu Linux
-                      Languages:  TypeScript, Dart, Python, Kotlin, C#
-                      Focus:      Enterprise Integrations, Clean Architecture
-                      Learning:   AWS, LLM fine-tuning (LoRA / LLaMA)
+     ██║██╔══██╗      ------------------------------------------------
+     ██║██████╔╝      Role       Software Engineer
+██   ██║██╔══██╗      Now        Commercial Technology Analyst @ Nutrefríos · Grupo Nutresa
+╚█████╔╝██║  ██║      Based in   Medellín, Colombia  (UTC-5)
+ ╚════╝ ╚═╝  ╚═╝      Degree     B.Sc. Software Engineering · I.U. Pascual Bravo
+                      Focus      Enterprise integrations · Data & BI · Full stack
+                      Languages  Spanish (native) · English (B2)
 ```
+
+I'm a software engineer at **Grupo Nutresa**, where I connect business systems — Dataverse, SAP and REST APIs —
+and turn the data into reporting people actually use. Outside work I build full-stack apps, data pipelines
+and IoT prototypes. Before engineering I worked in sales, so I'm comfortable talking with the people the software is for.
+
+### Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**cyber-vanish**](https://github.com/JuanJRP/cyber-vanish) | Snap your fingers and vanish from a video call. Real-time gesture + audio detection drives 14 disintegration effects into a virtual camera (Meet, Zoom, Teams, OBS). | Python · MediaPipe · OpenCV |
+| [**NYC Taxi pipeline**](https://github.com/JuanJRP/Pepiline_Taxis_NYC) | End-to-end batch pipeline over the public NYC TLC dataset: ingestion, PySpark processing, Parquet + MongoDB storage and analytical charts. | PySpark · Docker · MongoDB |
+| [**MedicalHandle**](https://github.com/JuanJRP/MedicalHandle_ESP32) | Wearable that measures heart rate, SpO₂ and body temperature, shows them on an OLED display and logs readings to Excel. | ESP32 · C++ · MAX30100 |
+| [**Threat Manager**](https://github.com/JuanJRP/Threat-Manager) | Web app to log, classify and track security threats, with a typed API and relational schema. | Next.js · TypeScript · Prisma |
 
 ```console
-juan@github:~$ cat about.md
+juan@github:~$ ls ~/stack
 ```
-```
-Software Engineer focused on scalable architectures, IoT and applied AI
-for health, services and sustainability.
-
-Today I work on enterprise integrations (Dataverse, APIs, SAP), Microsoft
-ecosystem migration and BI. I build web apps with Next.js/React and mobile
-apps with Flutter, always under Clean Architecture.
-
-Former medical sales rep → I bring a business view, user empathy and
-clear technical communication.
-```
-
-```console
-juan@github:~$ ls -l ~/stack
-```
-```
-drwxr-xr-x  frontend/     Next.js  React  TypeScript  Tailwind CSS
-drwxr-xr-x  backend/      Node.js  Express  Django  .NET  REST APIs
-drwxr-xr-x  mobile/       Flutter  Dart  Kotlin
-drwxr-xr-x  data/         SQL Server  BigQuery  PostgreSQL  MySQL  MongoDB  pandas
-drwxr-xr-x  enterprise/   Power BI  Power Automate  Dataverse  SAP  Apps Script  n8n
-drwxr-xr-x  iot/          ESP32  Arduino  biometric & environmental sensors
-drwxr-xr-x  cloud-ai/     AWS  Docker  LoRA / LLaMA fine-tuning
-drwxr-xr-x  tools/        Git  GitHub  GitLab  Linux
+```text
+languages/    TypeScript  Python  C#  SQL  Dart
+web/          Next.js  React  Node.js  Express  Tailwind CSS
+mobile/       Flutter
+data/         SQL Server  PostgreSQL  BigQuery  MongoDB  PySpark  Power BI
+enterprise/   Dataverse  Power Automate  SAP integrations  Apps Script  n8n
+cloud/        AWS  Docker  Linux  Git
+iot/          ESP32  Arduino  biometric & environmental sensors
 ```
 
 ```console
 juan@github:~$ git log --oneline career
 ```
-```
-a1f3c9e (HEAD -> main)  Oct 2026  feat: Commercial Technology Analyst @ Nutresa
+```text
+a1f3c9e (HEAD -> main)  Oct 2026  feat: Commercial Technology Analyst @ Nutrefríos · Grupo Nutresa
 7be20d4                 Jul 2026  feat: Digital Transformation & Tech Analyst @ Negocio Cárnico · Nutresa
-5d91a7f                 Jul 2026  release: B.Sc. Software Engineering @ I.U. Pascual Bravo
-4c02e88                 Feb 2026  feat: Digital Transformation & Tech Analyst @ Nases Colombia
-2e7b6a1                 Jul 2025  feat: Digital Transformation & Tech Intern @ Negocio Cárnico · Nutresa
-0000001                 Jan 2021  init: started Software Engineering
-```
-
-<!--
-```console
-juan@github:~$ ls ~/projects
-```
-```
-iot-medical-wristband/    ESP32 · Next.js   Wearable for biometric monitoring
-project-name/             Flutter           Short description
-```
--->
-
-```console
-juan@github:~$ ./contact.sh
-```
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-juan--jose--restrepo--pabon-0D1117?style=flat-square&logo=linkedin&logoColor=39D353&labelColor=0D1117)](https://www.linkedin.com/in/juan-jose-restrepo-pabon-96107b2a7/)
-[![Email](https://img.shields.io/badge/mail-juanjoserestrepopabon@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=39D353&labelColor=0D1117)](mailto:juanjoserestrepopabon@gmail.com)
-[![Portfolio](https://img.shields.io/badge/web-juanjrp.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=39D353&labelColor=0D1117)](https://juanjrp.github.io)
-
-```console
-juan@github:~$ gh stats --user JuanJRP
+5d91a7f  (tag: v1.0.0)  Jul 2026  release: B.Sc. Software Engineering @ I.U. Pascual Bravo
+4c02e88                 Feb 2026  feat: Digital Transformation Analyst @ Nases Colombia
+2e7b6a1                 Jul 2025  feat: Digital Transformation Intern @ Alimentos Cárnicos · Nutresa
+0000001                 2021      init: started Software Engineering
 ```
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JuanJRP&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJRP&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/JuanJRP/JuanJRP/output/snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/JuanJRP/JuanJRP/output/snake.svg" alt="Contribution graph eaten by a snake" />
 </div>
-
-```console
-juan@github:~$ █
-```
