@@ -34,17 +34,28 @@ behind it. Outside work I build data pipelines, AI models and IoT
 prototypes.
 ```
 
-```console
-juan@github:~$ ls ~/projects --featured
-```
+<pre>
+<b>juan@github:~$</b> ls -l ~/projects --featured
+drwxr-xr-x  <a href="https://github.com/JuanJRP/cyber-vanish"><b>cyber-vanish/</b></a>         Python · MediaPipe · OpenCV
+            Snap your fingers and vanish from a video call: gesture + audio
+            detection drives 14 disintegration effects into a virtual camera.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**cyber-vanish/**](https://github.com/JuanJRP/cyber-vanish) | Snap your fingers and vanish from a video call. Real-time gesture + audio detection drives 14 disintegration effects into a virtual camera (Meet, Zoom, Teams, OBS). | Python · MediaPipe · OpenCV |
-| [**nyc-taxi-pipeline/**](https://github.com/JuanJRP/nyc-taxi-pipeline) | End-to-end batch pipeline over the public NYC TLC dataset: ingestion, PySpark processing, Parquet + MongoDB storage and analytical charts. | PySpark · Docker · MongoDB |
-| [**MedicalHandle_ESP32/**](https://github.com/JuanJRP/MedicalHandle_ESP32) | Wearable that measures heart rate, SpO₂ and body temperature, shows them on an OLED display and logs readings to Excel. | ESP32 · C++ · MAX30100 |
-| [**llm-finetuning/**](https://github.com/JuanJRP/llm-finetuning) | QLoRA fine-tuning of DeepSeek-R1 1.5B on ~106K Spanish Q&A pairs, served through a Telegram bot. | PyTorch · PEFT · Hugging Face |
-| [**Threat-Manager/**](https://github.com/JuanJRP/Threat-Manager) | Security risk management: assets, threats, risk matrix and action plans, with JWT auth, roles and CI. | Next.js · Express · Prisma |
+drwxr-xr-x  <a href="https://github.com/JuanJRP/nyc-taxi-pipeline"><b>nyc-taxi-pipeline/</b></a>    PySpark · Docker · MongoDB
+            End-to-end batch pipeline over the NYC TLC dataset: ingestion,
+            PySpark processing, Parquet + MongoDB storage and charts.
+
+drwxr-xr-x  <a href="https://github.com/JuanJRP/MedicalHandle_ESP32"><b>MedicalHandle_ESP32/</b></a>  ESP32 · C++ · MAX30100
+            Wearable that measures heart rate, SpO₂ and body temperature,
+            shows them on an OLED display and logs readings to Excel.
+
+drwxr-xr-x  <a href="https://github.com/JuanJRP/llm-finetuning"><b>llm-finetuning/</b></a>       PyTorch · PEFT · Hugging Face
+            QLoRA fine-tuning of DeepSeek-R1 1.5B on ~106K Spanish Q&amp;A
+            pairs, served through a Telegram bot.
+
+drwxr-xr-x  <a href="https://github.com/JuanJRP/Threat-Manager"><b>Threat-Manager/</b></a>       Next.js · Express · Prisma
+            Security risk management: assets, threats, risk matrix and
+            action plans, with JWT auth, roles and CI.
+</pre>
 
 ```console
 juan@github:~$ ls ~/stack
