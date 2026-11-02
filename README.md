@@ -34,28 +34,36 @@ behind it. Outside work I build data pipelines, AI models and IoT
 prototypes.
 ```
 
-<pre>
-<b>juan@github:~$</b> ls -l ~/projects --featured
-drwxr-xr-x  <a href="https://github.com/JuanJRP/cyber-vanish"><b>cyber-vanish/</b></a>         Python · MediaPipe · OpenCV
+```console
+juan@github:~$ ls -l ~/projects --featured
+drwxr-xr-x  cyber-vanish/         Python · MediaPipe · OpenCV
             Snap your fingers and vanish from a video call: gesture + audio
             detection drives 14 disintegration effects into a virtual camera.
 
-drwxr-xr-x  <a href="https://github.com/JuanJRP/nyc-taxi-pipeline"><b>nyc-taxi-pipeline/</b></a>    PySpark · Docker · MongoDB
+drwxr-xr-x  nyc-taxi-pipeline/    PySpark · Docker · MongoDB
             End-to-end batch pipeline over the NYC TLC dataset: ingestion,
             PySpark processing, Parquet + MongoDB storage and charts.
 
-drwxr-xr-x  <a href="https://github.com/JuanJRP/MedicalHandle_ESP32"><b>MedicalHandle_ESP32/</b></a>  ESP32 · C++ · MAX30100
+drwxr-xr-x  MedicalHandle_ESP32/  ESP32 · C++ · MAX30100
             Wearable that measures heart rate, SpO₂ and body temperature,
             shows them on an OLED display and logs readings to Excel.
 
-drwxr-xr-x  <a href="https://github.com/JuanJRP/llm-finetuning"><b>llm-finetuning/</b></a>       PyTorch · PEFT · Hugging Face
-            QLoRA fine-tuning of DeepSeek-R1 1.5B on ~106K Spanish Q&amp;A
+drwxr-xr-x  llm-finetuning/       PyTorch · PEFT · Hugging Face
+            QLoRA fine-tuning of DeepSeek-R1 1.5B on ~106K Spanish Q&A
             pairs, served through a Telegram bot.
 
-drwxr-xr-x  <a href="https://github.com/JuanJRP/Threat-Manager"><b>Threat-Manager/</b></a>       Next.js · Express · Prisma
+drwxr-xr-x  Threat-Manager/       Next.js · Express · Prisma
             Security risk management: assets, threats, risk matrix and
             action plans, with JWT auth, roles and CI.
-</pre>
+```
+
+<p align="center">
+  <a href="https://github.com/JuanJRP/cyber-vanish"><img src="https://img.shields.io/badge/cyber--vanish-0D1117?style=flat-square&logo=github&logoColor=39D353" alt="cyber-vanish" /></a>
+  <a href="https://github.com/JuanJRP/nyc-taxi-pipeline"><img src="https://img.shields.io/badge/nyc--taxi--pipeline-0D1117?style=flat-square&logo=github&logoColor=39D353" alt="nyc-taxi-pipeline" /></a>
+  <a href="https://github.com/JuanJRP/MedicalHandle_ESP32"><img src="https://img.shields.io/badge/MedicalHandle__ESP32-0D1117?style=flat-square&logo=github&logoColor=39D353" alt="MedicalHandle_ESP32" /></a>
+  <a href="https://github.com/JuanJRP/llm-finetuning"><img src="https://img.shields.io/badge/llm--finetuning-0D1117?style=flat-square&logo=github&logoColor=39D353" alt="llm-finetuning" /></a>
+  <a href="https://github.com/JuanJRP/Threat-Manager"><img src="https://img.shields.io/badge/Threat--Manager-0D1117?style=flat-square&logo=github&logoColor=39D353" alt="Threat-Manager" /></a>
+</p>
 
 ```console
 juan@github:~$ ls ~/stack
